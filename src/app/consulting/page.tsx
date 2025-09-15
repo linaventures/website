@@ -68,14 +68,102 @@ export default function Consulting() {
               </p>
             </div>
 
-            <p className="mb-6 leading-relaxed">
+            <p className="mb-12 leading-relaxed">
               If this sounds familiar, let&apos;s talk.
             </p>
 
-            <p className="leading-relaxed">
-              Reach out at{" "}
-              <a href="mailto:lina@thirdroom.studio" className="text-[#0000FF] hover:underline">lina@thirdroom.studio</a>.
+            {/* What I Do Section */}
+            <h2 className="text-lg font-bold text-black mb-6">What I do</h2>
+            
+            <p className="mb-6 leading-relaxed">
+              I&apos;m a narrative strategist who helps organizations find and tell their stories in emerging technology spaces. (I wrote about{" "}
+              <a href="https://www.linkedin.com/pulse/what-your-story-matters-more-now-because-machines-cant-schrott-ffc7e/" className="text-[#0000FF] hover:underline">why storytelling matters more now in the age of AI</a>).
             </p>
+            
+            <p className="mb-6 leading-relaxed">
+              Most engagements fall into one of these areas: <span className="font-bold">Time-delimited packages of strategic support</span>.
+            </p>
+            
+            <p className="mb-6 leading-relaxed">
+              These are focused blocks of time that you and your team can use to get support in thinking through narrative challenges and positioning decisions your organization faces:
+            </p>
+
+            <div className="ml-6 mb-6">
+              <p className="mb-4 leading-relaxed">
+                • <span className="text-[#0000FF] font-bold">Focused on messaging and positioning</span>: This package focuses on helping your team develop clear, compelling messaging that cuts through noise and connects with your target audience.
+              </p>
+              
+              <p className="mb-4 leading-relaxed">
+                • <span className="text-[#0000FF] font-bold">Focused on content strategy and production</span>: This package focuses on helping teams create systematic approaches to content that builds trust, demonstrates expertise, and drives meaningful engagement.
+              </p>
+            </div>
+
+            <p className="mb-6 leading-relaxed">
+              These packages are a low-friction way to try out working together without needing extensive prior discovery.
+            </p>
+
+            <p className="mb-12 leading-relaxed">
+              I also provide more customized offerings:
+            </p>
+
+            <div className="ml-6 mb-12">
+              <p className="mb-4 leading-relaxed">
+                • A 1-2 day <span className="text-[#0000FF] font-bold">intensive narrative workshop</span> that uncovers and aligns your team around core stories that drive decision-making and external communication.
+              </p>
+              
+              <p className="mb-4 leading-relaxed">
+                • 1-3 day <span className="font-bold">intensive courses on storytelling in tech</span> that build your organization&apos;s internal capability to think and communicate narratively in complex technical environments.
+              </p>
+              
+              <p className="mb-4 leading-relaxed">
+                • <span className="font-bold">Fully customized consulting and advisory engagements</span> tailored to your organization&apos;s specific challenges or objectives — sometimes{" "}
+                <a href="mailto:lina@thirdroom.studio" className="text-[#0000FF] hover:underline">those which you can&apos;t even name yet</a>.
+              </p>
+            </div>
+
+            {/* How I Engage Section */}
+            <h2 className="text-lg font-bold text-black mb-6">How I engage</h2>
+            
+            <p className="mb-6 leading-relaxed">
+              No matter the engagement type — whether it&apos;s a package of focused hours or a fully customized project — <span className="font-bold">you always work directly with me</span>.
+            </p>
+            
+            <p className="mb-6 leading-relaxed">
+              I scope engagements around specific areas where I have deep expertise and comparative advantage. Where needed, I bring in handpicked specialists from my network — people I trust, who are exceptional in their respective fields.
+            </p>
+            
+            <p className="mb-12 leading-relaxed">
+              By design, I don&apos;t operate the conventional consulting model that monetizes the heavily marked-up time of junior staff.
+            </p>
+
+            {/* What You Get Section */}
+            <h2 className="text-lg font-bold text-black mb-6">What you get</h2>
+            
+            <p className="mb-6 leading-relaxed">
+              When clients work with me, their organizations learn to distinguish signal from noise — and how to communicate accordingly.
+            </p>
+            
+            <p className="mb-12 leading-relaxed">
+              This empowers their teams to work more autonomously, tell their stories more compellingly, and move faster toward effective solutions that resonate with their audiences.
+            </p>
+
+            <p className="mb-12 leading-relaxed">
+              <a href="mailto:lina@thirdroom.studio" className="text-[#0000FF] hover:underline font-bold">Get in touch</a> if you&apos;d like to talk about working together.
+            </p>
+
+            <hr className="border-t border-gray-300 mb-12" />
+
+            {/* Organizations Section */}
+            <h2 className="text-lg font-bold text-black mb-6">Some organizations I&apos;ve worked with, past and present</h2>
+            
+            <div className="ml-6">
+              <p className="mb-2 leading-relaxed">• Gitcoin</p>
+              <p className="mb-2 leading-relaxed">• Universal Profiles</p>
+              <p className="mb-2 leading-relaxed">• Thalia Buchhandlung</p>
+              <p className="mb-2 leading-relaxed">• Sky Deutschland</p>
+              <p className="mb-2 leading-relaxed">• FortyIQ</p>
+              <p className="mb-2 leading-relaxed">• Various early-stage AI and Web3 startups</p>
+            </div>
           </section>
 
         </div>
