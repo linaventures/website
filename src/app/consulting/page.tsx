@@ -39,16 +39,8 @@ export default function Consulting() {
           
           {/* Content Sections */}
           <section>
-            <p className="mb-6 leading-relaxed">
-              I help organizations tell better stories, build stronger narratives, and navigate the intersection of emerging technology and human experience.
-            </p>
-            
-            <p className="mb-6 leading-relaxed">
-              Over the past five years, I&apos;ve worked with Web3 organizations, AI startups, and traditional companies adapting to new technologies. Current and former clients include Gitcoin, Universal Profiles, and various early-stage companies building at the frontier of decentralized systems and AI-native products. My work spans narrative strategy, campaign development, content creation, and helping technical teams communicate complex ideas effectively.
-            </p>
-            
             <p className="mb-12 leading-relaxed">
-              I&apos;m also actively building AI-powered tools and products, giving me hands-on experience with the technologies and challenges my clients face. This practical knowledge informs my consulting approach and keeps me current with rapidly evolving landscapes.
+              I work with frontier tech teams to turn complex ideas into stories that build trust, attract support, and create momentum for what they&apos;re building.
             </p>
 
             {/* Where I Can Help Section */}
@@ -64,7 +56,7 @@ export default function Consulting() {
               </p>
               
               <p className="mb-4 leading-relaxed">
-                <span className="mr-4">2.</span>They&apos;re navigating a major shift — adopting AI tools, entering Web3 space, or transforming their business model — and need strategic guidance on messaging, positioning, and community building during periods of rapid change.
+                <span className="mr-4">2.</span>They want to build a narrative infrastructure — and need strategic guidance on how to build <span className="font-bold">repeatable processes, founder stories, or content libraries</span> that grow with their organization.
               </p>
             </div>
 
@@ -77,7 +69,7 @@ export default function Consulting() {
             
             <p className="mb-6 leading-relaxed">
               I&apos;m a narrative strategist who helps organizations find and tell their stories in emerging technology spaces. (I wrote about{" "}
-              <a href="https://www.linkedin.com/pulse/what-your-story-matters-more-now-because-machines-cant-schrott-ffc7e/" className="text-[#0000FF] hover:underline">why storytelling matters more now in the age of AI</a>).
+              <a href="https://www.linkedin.com/pulse/what-your-story-matters-more-now-because-machines-cant-schrott-ffc7e/" className="text-[#0000FF] hover:underline">why storytelling matters more now in the age of AI</a>). That can look like:
             </p>
             
             <p className="mb-6 leading-relaxed">
@@ -90,11 +82,11 @@ export default function Consulting() {
 
             <div className="ml-6 mb-6">
               <p className="mb-4 leading-relaxed">
-                • <span className="text-[#0000FF] font-bold">Focused on messaging and positioning</span>: This package focuses on helping your team develop clear, compelling messaging that cuts through noise and connects with your target audience.
+                • <span className="font-bold">Focused on messaging and positioning</span>: This package focuses on helping your team develop clear, compelling messaging that cuts through noise and connects with your target audience.
               </p>
               
               <p className="mb-4 leading-relaxed">
-                • <span className="text-[#0000FF] font-bold">Focused on content strategy and production</span>: This package focuses on helping teams create systematic approaches to content that builds trust, demonstrates expertise, and drives meaningful engagement.
+                • <span className="font-bold">Focused on content strategy and production</span>: This package focuses on helping teams create systematic approaches to content that builds trust, demonstrates expertise, and drives meaningful engagement.
               </p>
             </div>
 
@@ -102,24 +94,14 @@ export default function Consulting() {
               These packages are a low-friction way to try out working together without needing extensive prior discovery.
             </p>
 
-            <p className="mb-12 leading-relaxed">
+            <p className="mb-6 leading-relaxed">
               I also provide more customized offerings:
             </p>
 
-            <div className="ml-6 mb-12">
-              <p className="mb-4 leading-relaxed">
-                • A 1-2 day <span className="text-[#0000FF] font-bold">intensive narrative workshop</span> that uncovers and aligns your team around core stories that drive decision-making and external communication.
-              </p>
-              
-              <p className="mb-4 leading-relaxed">
-                • 1-3 day <span className="font-bold">intensive courses on storytelling in tech</span> that build your organization&apos;s internal capability to think and communicate narratively in complex technical environments.
-              </p>
-              
-              <p className="mb-4 leading-relaxed">
-                • <span className="font-bold">Fully customized consulting and advisory engagements</span> tailored to your organization&apos;s specific challenges or objectives — sometimes{" "}
-                <a href="mailto:lina@thirdroom.studio" className="text-[#0000FF] hover:underline">those which you can&apos;t even name yet</a>.
-              </p>
-            </div>
+            <p className="mb-12 leading-relaxed">
+              <span className="font-bold">Fully customized consulting and advisory engagements</span> tailored to your organization&apos;s specific challenges or objectives — sometimes{" "}
+              <a href="mailto:lina@thirdroom.studio" className="text-[#0000FF] hover:underline">those which you can&apos;t even name yet</a>.
+            </p>
 
             {/* How I Engage Section */}
             <h2 className="text-lg font-bold text-black mb-6">How I engage</h2>
@@ -128,42 +110,33 @@ export default function Consulting() {
               No matter the engagement type — whether it&apos;s a package of focused hours or a fully customized project — <span className="font-bold">you always work directly with me</span>.
             </p>
             
-            <p className="mb-6 leading-relaxed">
-              I scope engagements around specific areas where I have deep expertise and comparative advantage. Where needed, I bring in handpicked specialists from my network — people I trust, who are exceptional in their respective fields.
-            </p>
-            
             <p className="mb-12 leading-relaxed">
-              By design, I don&apos;t operate the conventional consulting model that monetizes the heavily marked-up time of junior staff.
+              I scope engagements around specific areas where I have deep expertise and comparative advantage. Where needed, I bring in handpicked specialists from my network — people I trust, who are exceptional in their respective fields.
             </p>
 
             {/* What You Get Section */}
             <h2 className="text-lg font-bold text-black mb-6">What you get</h2>
             
             <p className="mb-6 leading-relaxed">
-              When clients work with me, their organizations learn to distinguish signal from noise — and how to communicate accordingly.
-            </p>
-            
-            <p className="mb-12 leading-relaxed">
-              This empowers their teams to work more autonomously, tell their stories more compellingly, and move faster toward effective solutions that resonate with their audiences.
+              Working with me helps your organization:
             </p>
 
-            <p className="mb-12 leading-relaxed">
-              <a href="mailto:lina@thirdroom.studio" className="text-[#0000FF] hover:underline font-bold">Get in touch</a> if you&apos;d like to talk about working together.
-            </p>
-
-            <hr className="border-t border-gray-300 mb-12" />
-
-            {/* Organizations Section */}
-            <h2 className="text-lg font-bold text-black mb-6">Some organizations I&apos;ve worked with, past and present</h2>
-            
-            <div className="ml-6">
-              <p className="mb-2 leading-relaxed">• Gitcoin</p>
-              <p className="mb-2 leading-relaxed">• Universal Profiles</p>
-              <p className="mb-2 leading-relaxed">• Thalia Buchhandlung</p>
-              <p className="mb-2 leading-relaxed">• Sky Deutschland</p>
-              <p className="mb-2 leading-relaxed">• FortyIQ</p>
-              <p className="mb-2 leading-relaxed">• Various early-stage AI and Web3 startups</p>
+            <div className="ml-6 mb-6">
+              <p className="mb-2 leading-relaxed">
+                • Find <span className="font-bold">clarity</span> in how you talk about your work.
+              </p>
+              <p className="mb-2 leading-relaxed">
+                • Build <span className="font-bold">trust</span> with funders, communities, and partners.
+              </p>
+              <p className="mb-2 leading-relaxed">
+                • Create <span className="font-bold">momentum</span> with stories and content systems that keep working long after the engagement ends.
+              </p>
             </div>
+
+            <p className="mb-12 leading-relaxed">
+              <span className="font-bold">Get in touch</span> if you&apos;d like to talk about working together:{" "}
+              <a href="mailto:lina@thirdroom.studio" className="text-[#0000FF] hover:underline">lina@thirdroom.studio</a>.
+            </p>
           </section>
 
         </div>
