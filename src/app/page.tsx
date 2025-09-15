@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Home() {
   return (
     <div className="min-h-screen bg-white font-sans text-black">
@@ -6,9 +8,9 @@ export default function Home() {
         <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center">
           {/* Name/Logo */}
           <div className="mb-4 sm:mb-0 text-center sm:text-left">
-            <a href="/" className="text-[#0000FF] hover:underline text-lg">
+            <Link href="/" className="text-[#0000FF] hover:underline text-lg">
               Lina Pauline
-            </a>
+            </Link>
           </div>
           
           {/* Navigation */}
@@ -35,19 +37,19 @@ export default function Home() {
           {/* Intro Section */}
           <section className="mb-16">
             <p className="mb-6 leading-relaxed">
-              I'm a creative producer, consultant, and builder. I care about how stories shape people and products, and how we can design better ways to tell them.
+              I&apos;m a creative producer, consultant, and builder. I care about how stories shape people and products, and how we can design better ways to tell them.
             </p>
             
             <p className="mb-6 leading-relaxed">
               I started out in documentary and advertising, moving between small,{" "}
-              <a href="https://www.imdb.com/title/tt22014076/" className="text-[#0000FF] hover:underline">scrappy film projects</a> and large-scale campaigns. I've directed shoots with a 30+ crew for{" "}
-              <a href="https://www.youtube.com/watch?v=bGlWl1YG4cA" className="text-[#0000FF] hover:underline">Sky Deutschland's <em>Babylon Berlin</em></a>, produced scripted TikTok series for Thalia Buchhandlung that went on to generate{" "}
+              <a href="https://www.imdb.com/title/tt22014076/" className="text-[#0000FF] hover:underline">scrappy film projects</a> and large-scale campaigns. I&apos;ve directed shoots with a 30+ crew for{" "}
+              <a href="https://www.youtube.com/watch?v=bGlWl1YG4cA" className="text-[#0000FF] hover:underline">Sky Deutschland&apos;s <em>Babylon Berlin</em></a>, produced scripted TikTok series for Thalia Buchhandlung that went on to generate{" "}
               <a href="https://www.tiktok.com/@thalia_buchhandlungen/video/7237493732671606042" className="text-[#0000FF] hover:underline font-bold">over a million views</a>, and led documentary projects like{" "}
               <a href="https://youtu.be/R8MeW469Tzs?si=-xbrHYskCTAvhQWf" className="text-[#0000FF] hover:underline"><em>Blank Was A Canvas</em></a> amplifying underrepresented voices.
             </p>
             
             <p className="mb-6 leading-relaxed">
-              In 2022, I shifted into web3 and emerging tech. I've worked with organizations like{" "}
+              In 2022, I shifted into web3 and emerging tech. I&apos;ve worked with organizations like{" "}
               <a href="https://x.com/gitcoin" className="text-[#0000FF] hover:underline font-bold">Gitcoin</a>, and{" "}
               <a href="https://x.com/ERC725Account" className="text-[#0000FF] hover:underline font-bold">Universal Profiles</a>. My focus was on developing{" "}
               <a href="https://www.gitcoin.co/blog/how-community-centric-grants-drive-growth-lessons-from-seis-grants-campaign" className="text-[#0000FF] hover:underline">narrative strategies</a>,{" "}
@@ -90,7 +92,7 @@ export default function Home() {
             </div>
             
             <p className="mb-6 leading-relaxed">
-              Building these projects has expanded my technical ability substantially. I've coded multiple landing pages, designed the UI & UX of a couple apps and automated various workflows with AI tools. It's shown me what's possible now: how much leverage small, focused tiger teams really have with AI.
+              Building these projects has expanded my technical ability substantially. I&apos;ve coded multiple landing pages, designed the UI & UX of a couple apps and automated various workflows with AI tools. It&apos;s shown me what&apos;s possible now: how much leverage small, focused tiger teams really have with AI.
             </p>
           </section>
 

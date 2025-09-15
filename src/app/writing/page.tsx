@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Writing() {
   return (
     <div className="min-h-screen bg-white font-sans text-black">
@@ -6,9 +8,9 @@ export default function Writing() {
         <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center">
           {/* Name/Logo */}
           <div className="mb-4 sm:mb-0 text-center sm:text-left">
-            <a href="/" className="text-[#0000FF] hover:underline text-lg">
+            <Link href="/" className="text-[#0000FF] hover:underline text-lg">
               Lina Pauline
-            </a>
+            </Link>
           </div>
           
           {/* Navigation */}
@@ -46,7 +48,7 @@ export default function Writing() {
               <div className="flex items-start">
                 <span className="text-black w-28 sm:w-36 flex-shrink-0 text-right pr-4 sm:pr-6 whitespace-nowrap leading-relaxed">10/07/2025</span>
                 <a href="https://capsules.thirdroom.studio/1/" className="text-[#0000FF] hover:bg-[#0000FF] hover:text-white px-1 -mx-1 leading-relaxed">
-                  What's A <em>Canary Trigger</em>? Let me explain.
+                  What&apos;s A <em>Canary Trigger</em>? Let me explain.
                 </a>
               </div>
 
@@ -60,7 +62,7 @@ export default function Writing() {
               <div className="flex items-start">
                 <span className="text-black w-28 sm:w-36 flex-shrink-0 text-right pr-4 sm:pr-6 whitespace-nowrap leading-relaxed">01/05/2025</span>
                 <a href="https://www.linkedin.com/pulse/what-your-story-matters-more-now-because-machines-cant-schrott-ffc7e/?trackingId=6KTp9r4yRo2oSv8Xk4fCFQ%3D%3D" className="text-[#0000FF] hover:bg-[#0000FF] hover:text-white px-1 -mx-1 leading-relaxed">
-                  What if Your Story Matters More Now, Because Machines Can't Live YOUR Experience? Insights from the Artist and the Machine Conference
+                  What if Your Story Matters More Now, Because Machines Can&apos;t Live YOUR Experience? Insights from the Artist and the Machine Conference
                 </a>
               </div>
 
@@ -74,7 +76,7 @@ export default function Writing() {
               <div className="flex items-start">
                 <span className="text-black w-28 sm:w-36 flex-shrink-0 text-right pr-4 sm:pr-6 whitespace-nowrap leading-relaxed">20/11/2024</span>
                 <a href="https://www.gitcoin.co/blog/how-community-centric-grants-drive-growth-lessons-from-seis-grants-campaign" className="text-[#0000FF] hover:bg-[#0000FF] hover:text-white px-1 -mx-1 leading-relaxed">
-                  How Community-Centric Grants Drive Growth: Lessons from Sei's Grants Campaign
+                  How Community-Centric Grants Drive Growth: Lessons from Sei&apos;s Grants Campaign
                 </a>
               </div>
 
@@ -123,7 +125,7 @@ export default function Writing() {
               <div className="flex items-start">
                 <span className="text-black w-28 sm:w-36 flex-shrink-0 text-right pr-4 sm:pr-6 whitespace-nowrap leading-relaxed">14/06/2024</span>
                 <a href="https://gitcoin.mirror.xyz/RjqdZrPZaDiW_g0xqfey1xYW0OP5F502xo8vBojRFDQ" className="text-[#0000FF] hover:bg-[#0000FF] hover:text-white px-1 -mx-1 leading-relaxed">
-                  Catalyzing Change: ReFi DAO's Impact Through Gitcoin Funding Rounds
+                  Catalyzing Change: ReFi DAO&apos;s Impact Through Gitcoin Funding Rounds
                 </a>
               </div>
 
