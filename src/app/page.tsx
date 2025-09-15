@@ -83,11 +83,11 @@ export default function Home() {
                 <a href="https://luma.com/cyeeujcg" className="text-[#0000FF] hover:underline font-bold">AI Tea Saloons</a> — community gatherings exploring the future of AI through facilitated dialogue
               </p>
               <p className="mb-2 leading-relaxed">
-                • <span className="font-bold">3x3</span> — a conversation series where thought leaders reflect on three big questions about AI, creativity, and consciousness…three questions at a time
-              </p>
-              <p className="mb-2 leading-relaxed">
                 •{" "}
                 <a href="https://x.com/linaventures1/status/1965775276660646342" className="text-[#0000FF] hover:underline font-bold">Building in public</a> — sharing process, wins, and failures openly
+              </p>
+              <p className="mb-2 leading-relaxed">
+                • <span className="font-bold">3x3</span> — a conversation series where thought leaders reflect on AI, creativity, and consciousness…three questions at a time
               </p>
             </div>
             
