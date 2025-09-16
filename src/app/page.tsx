@@ -122,11 +122,16 @@ export default function Home() {
       {/* Profile Image */}
       <div className="px-6 sm:px-12 mb-12 mt-16">
         <div className="max-w-[700px] mx-auto text-left">
-          <img 
-            src="/takeoff.jpg" 
-            alt="Lina Pauline" 
-            className="w-64 sm:w-80"
-          />
+          <div className="relative inline-block">
+            <img 
+              src="/takeoff.jpg" 
+              alt="Lina Pauline" 
+              className="w-64 sm:w-80"
+            />
+            <p className="text-sm leading-relaxed mt-2 text-right">
+              That&apos;s me about to take off on a flight over my favorite city, NYC.
+            </p>
+          </div>
         </div>
       </div>
 
