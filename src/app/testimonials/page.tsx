@@ -58,14 +58,17 @@ export default function Testimonials() {
             </div>
 
             {/* Testimonial 2 - James */}
-            <div className="mb-12">
-              <p className="mb-4 leading-relaxed">
-                &quot;I had been meeting hundreds of people in the last few months, expressing my life story through an elevator pitch. Each time unstructured and lacking consistency. I attended Lina&apos;s workshop during Edge City. I finally understood the immense value of professionally structuring the stories we repeat so many times that convey such important messages about ourselves. I have been using her frameworks ever since!&quot;
-              </p>
-              <p className="text-sm leading-relaxed">
-                — <span className="font-bold">James Ross Vazquez</span>,{" "}
-                <a href="https://www.linkedin.com/in/james-ross-vazquez/" className="text-[#0000FF] hover:underline font-bold">Strategy and BD, Valuat</a>
-              </p>
+            <div className="mb-12 flex flex-col sm:flex-row gap-6">
+              <div className="flex-1">
+                <p className="mb-4 leading-relaxed">
+                  &quot;I had been meeting hundreds of people in the last few months, expressing my life story through an elevator pitch. Each time unstructured and lacking consistency. I attended Lina&apos;s workshop during Edge City. I finally understood the immense value of professionally structuring the stories we repeat so many times that convey such important messages about ourselves. I have been using her frameworks ever since!&quot;
+                </p>
+                <p className="text-sm leading-relaxed">
+                  — <span className="font-bold">James Ross Vazquez</span>,{" "}
+                  <a href="https://www.linkedin.com/in/james-ross-vazquez/" className="text-[#0000FF] hover:underline font-bold">Strategy and BD, Valuat</a>
+                </p>
+              </div>
+              <img src="/Testimonials/james.png" alt="James Ross Vazquez" className="w-24 h-24 sm:w-32 sm:h-32 object-cover rounded-full flex-shrink-0" />
             </div>
 
             {/* Testimonial 3 - Meggie */}
