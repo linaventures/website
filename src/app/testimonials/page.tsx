@@ -96,21 +96,7 @@ export default function Testimonials() {
               <img src="/Testimonials/veronica.jpg" alt="Veronica Kirin" className="w-24 h-24 sm:w-32 sm:h-32 object-cover rounded-full flex-shrink-0" />
             </div>
 
-            {/* Testimonial 5 - Patricia */}
-            <div className="mb-12 flex flex-col sm:flex-row gap-6">
-              <div className="flex-1">
-                <p className="mb-4 leading-relaxed">
-                  &quot;Lina spent time on our film set, shooting clips of the cast and crew at work, which we edited into an EPK. After we finished shooting, she developed an approach and filmed an interview with me. She was very skilled at following up in pursuit of deeper and more thoughtful conversation about the film and its context. I&apos;m leery of PR strategies that seem formulaic and trivial; I&apos;m convinced that Lina is genuinely interested in the creative process and in representing every person and their work intelligently and authentically.&quot;
-                </p>
-                <p className="text-sm leading-relaxed">
-                  — <span className="font-bold">Patricia Gruben</span>,{" "}
-                  <a href="https://en.wikipedia.org/wiki/Patricia_Gruben" className="text-[#0000FF] hover:underline font-bold">Filmmaker and Director/Professor at SFU</a>
-                </p>
-              </div>
-              <img src="/Testimonials/patricia.jpg" alt="Patricia Gruben" className="w-24 h-24 sm:w-32 sm:h-32 object-cover rounded-full flex-shrink-0" />
-            </div>
-
-            {/* Testimonial 6 - Seville */}
+            {/* Testimonial 5 - Seville */}
             <div className="mb-12 flex flex-col sm:flex-row gap-6">
               <div className="flex-1">
                 <p className="mb-4 leading-relaxed">
@@ -122,6 +108,20 @@ export default function Testimonials() {
                 </p>
               </div>
               <img src="/Testimonials/seville.png" alt="Seville Avtsova" className="w-24 h-24 sm:w-32 sm:h-32 object-cover rounded-full flex-shrink-0" />
+            </div>
+
+            {/* Testimonial 6 - Patricia */}
+            <div className="mb-12 flex flex-col sm:flex-row gap-6">
+              <div className="flex-1">
+                <p className="mb-4 leading-relaxed">
+                  &quot;Lina spent time on our film set, shooting clips of the cast and crew at work, which we edited into an EPK. After we finished shooting, she developed an approach and filmed an interview with me. She was very skilled at following up in pursuit of deeper and more thoughtful conversation about the film and its context. I&apos;m leery of PR strategies that seem formulaic and trivial; I&apos;m convinced that Lina is genuinely interested in the creative process and in representing every person and their work intelligently and authentically.&quot;
+                </p>
+                <p className="text-sm leading-relaxed">
+                  — <span className="font-bold">Patricia Gruben</span>,{" "}
+                  <a href="https://en.wikipedia.org/wiki/Patricia_Gruben" className="text-[#0000FF] hover:underline font-bold">Filmmaker and Director/Professor at SFU</a>
+                </p>
+              </div>
+              <img src="/Testimonials/patricia.jpg" alt="Patricia Gruben" className="w-24 h-24 sm:w-32 sm:h-32 object-cover rounded-full flex-shrink-0" />
             </div>
 
             {/* Testimonial 7 - Zoe */}
