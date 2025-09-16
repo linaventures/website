@@ -40,7 +40,8 @@ export default function ProductBuilding() {
           {/* Content Sections */}
           <section>
             <p className="mb-6 leading-relaxed">
-              <span className="font-bold">Coding is no longer a barrier.</span> I&apos;ve gone from &quot;non-technical&quot; to shipping websites (including this one), apps, and technical experiments with tools like Cursor.
+              <span className="font-bold">Coding is no longer a barrier.</span> I&apos;ve gone from &quot;non-technical&quot; to shipping websites (including this one), apps, and technical experiments with tools like{" "}
+              <a href="https://x.com/linaventures1/status/1966158358982832577" className="text-[#0000FF] hover:underline">Cursor</a>.
             </p>
             
             <p className="mb-12 leading-relaxed">
@@ -57,15 +58,18 @@ export default function ProductBuilding() {
             <h2 className="text-lg font-bold text-black mb-6">Product-building made me a better marketer.</h2>
             
             <p className="mb-6 leading-relaxed">
-              I didn&apos;t go into -1 to 0 with a roadmap. Instead, I followed questions: <em>what can a single person plus AI ship in a few days? how might AI reinvent content creation? what does the future of creativity look like with the advent of AI?</em> That mindset of experimentation led me to unexpected products and faster learning cycles.
+              I didn&apos;t go into -1 to 0 with a roadmap. Instead, I followed questions: <em>what can a single person plus AI ship in a few days? how might AI reinvent content creation? what does the future of creativity look like with the advent of AI?</em> That mindset of experimentation led me to unexpected products.
             </p>
             
             <p className="mb-6 leading-relaxed">
-              I learned to strip ideas down to the smallest testable slice, ship working demos quickly, and iterate based on user feedback rather than on assumptions. I learned to think like a user, designing the first 60 seconds—onboarding, trust signals, microcopy—and pairing it with interviews to surface friction and validate whether the story matched the lived experience.
+              I learned to strip ideas down to the smallest testable slice, ship working demos quickly, and iterate based on user feedback. I learned to think like a product-designer, focusing on the first 60 seconds (onboarding, trust signals, microcopy) and pairing it with interviews to surface friction and validate.
             </p>
             
             <p className="mb-6 leading-relaxed">
-              I learned that go-to-market doesn&apos;t begin after launch. With Capsules, I seeded use cases by publishing my own work, shared the process publicly, and brought in early testers whose feedback shaped the product. And I learned how to extend small teams with tools: prototyping Capsules with N8N, building a content research generator, and orchestrating AI workflows and agents (always with a human in the loop) to replace repetitive work with systems.
+              I learned that GTM doesn&apos;t begin after launch. With Capsules, I seeded use cases by{" "}
+              <a href="https://capsules.thirdroom.studio/" className="text-[#0000FF] hover:underline">publishing my own work</a>, and{" "}
+              <a href="https://x.com/linaventures1/status/1965775276660646342" className="text-[#0000FF] hover:underline">sharing the process publicly</a>. And I learned how to extend small teams with tools: prototyping Capsules with{" "}
+              <a href="https://x.com/linaventures1/status/1965043754446012787" className="text-[#0000FF] hover:underline">N8N</a>, and orchestrating AI workflows and agents (always with a human in the loop) to replace repetitive work with systems.
             </p>
             
             <p className="mb-6 leading-relaxed">
