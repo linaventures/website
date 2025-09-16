@@ -125,7 +125,7 @@ export default function Home() {
           <img 
             src="/linapic.JPG" 
             alt="Lina Pauline" 
-            className="w-32 h-32 sm:w-40 sm:h-40 object-cover rounded-full mx-auto"
+            className="w-48 sm:w-64 mx-auto"
           />
         </div>
       </div>
