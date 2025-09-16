@@ -108,7 +108,7 @@ export default function Home() {
               <a href="mailto:lina@thirdroom.studio" className="text-[#0000FF] hover:underline">lina@thirdroom.studio</a>.
             </p>
             
-            <p className="mb-16 leading-relaxed">
+            <p className="mb-4 leading-relaxed">
               To connect:{" "}
               <a href="https://x.com/linaventures1" className="text-[#0000FF] hover:underline">X @linaventures</a>,{" "}
               <a href="https://www.linkedin.com/in/linapaulineschrott/" className="text-[#0000FF] hover:underline">LinkedIn</a>,{" "}
@@ -120,7 +120,7 @@ export default function Home() {
       </main>
 
       {/* Profile Image */}
-      <div className="px-6 sm:px-12 mb-12">
+      <div className="px-6 sm:px-12 mb-12 mt-16">
         <div className="max-w-[700px] mx-auto text-left">
           <img 
             src="/takeoff.jpg" 
