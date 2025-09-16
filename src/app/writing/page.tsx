@@ -25,6 +25,9 @@ export default function Writing() {
               <a href="/product-building" className="text-[#0000FF] hover:underline">
                 product-building
               </a>
+              <a href="/testimonials" className="text-[#0000FF] hover:underline">
+                testimonials
+              </a>
             </div>
           </nav>
         </div>
