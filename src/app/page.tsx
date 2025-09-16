@@ -75,7 +75,7 @@ export default function Home() {
                 <a href="https://canaryapp.io/" className="text-[#0000FF] hover:underline font-bold">Canary</a> — a secure vault for your most critical stories, truths, or instructions
               </p>
               <p className="mb-2 leading-relaxed">
-                • <span className="font-bold">Field Notes</span> — a friendship LLM experiment ({" "}
+                • <span className="font-bold">Field Notes</span> — a friendship LLM experiment (
                 <a href="https://capsules.thirdroom.studio/2/" className="text-[#0000FF] hover:underline">read about it</a>)
               </p>
               <p className="mb-2 leading-relaxed">
@@ -87,12 +87,12 @@ export default function Home() {
                 <a href="https://x.com/linaventures1/status/1965775276660646342" className="text-[#0000FF] hover:underline font-bold">Building in public</a> — sharing process, wins, and failures openly
               </p>
               <p className="mb-2 leading-relaxed">
-                • <span className="font-bold">3x3</span> — a conversation series where thought leaders reflect on AI, creativity, and consciousness…three questions at a time
+                • <span className="font-bold">3x3</span> — a conversation series where thought leaders reflect on AI, creativity, and consciousness…three questions at a time (coming soon)
               </p>
             </div>
             
             <p className="mb-6 leading-relaxed">
-              Building these projects has expanded my technical ability substantially. I&apos;ve coded multiple landing pages, designed the UI & UX of a couple apps and automated various workflows with AI tools. It&apos;s shown me what&apos;s possible now: how much leverage small, focused tiger teams really have with AI.
+              Building these projects has expanded <a href="/product-building" className="text-[#0000FF] hover:underline">my technical ability</a> substantially. I&apos;ve coded multiple landing pages, designed the UI & UX of a couple apps and automated various workflows with AI tools. It&apos;s shown me what&apos;s possible now: how much leverage small, focused tiger teams really have with AI.
             </p>
           </section>
 
