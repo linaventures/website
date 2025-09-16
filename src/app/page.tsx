@@ -123,7 +123,7 @@ export default function Home() {
       <div className="px-6 sm:px-12 mb-12">
         <div className="max-w-[700px] mx-auto text-left">
           <img 
-            src="/takeoff.HEIC" 
+            src="/takeoff.jpg" 
             alt="Lina Pauline" 
             className="w-48 sm:w-64"
           />
