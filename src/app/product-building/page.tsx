@@ -48,7 +48,7 @@ export default function ProductBuilding() {
               <a href="https://capsules.ink/" className="text-[#0000FF] hover:underline font-bold">Capsules</a> and{" "}
               <a href="https://canaryapp.io/" className="text-[#0000FF] hover:underline font-bold">Canary</a>. Capsules began as a personal experiment to publish my writing in a more immersive way and has grown into an alpha platform with early creators, gaining traction through word of mouth and{" "}
               <a href="https://x.com/linaventures1/status/1965775276660646342" className="text-[#0000FF] hover:underline">building in public</a>. Canary started as a{" "}
-              <a href="https://x.com/linaventures1/status/1935322911428198577" className="text-[#0000FF] hover:underline">hackathon win</a>, was accepted into the Cypherpunk Launchpad ({" "}
+              <a href="https://x.com/linaventures1/status/1935322911428198577" className="text-[#0000FF] hover:underline">hackathon win</a>, was accepted into the Cypherpunk Launchpad (
               <a href="https://x.com/web3privacy/status/1935339746433327200" className="text-[#0000FF] hover:underline">W3PN</a>), and will be showcased at the{" "}
               <a href="https://congress.web3privacy.info/" className="text-[#0000FF] hover:underline">Cypherpunk Congress in Argentina</a> in November 2025.
             </p>
@@ -69,7 +69,7 @@ export default function ProductBuilding() {
             </p>
             
             <p className="mb-6 leading-relaxed">
-              Most importantly: you don&apos;t need a massive team to ship, and you just need the willingness to experiment, learn, and share.
+              Most importantly I learned that you don&apos;t need a big team to ship, you just need the willingness to experiment, learn, and share.
             </p>
 
             <p className="mb-12 leading-relaxed">
