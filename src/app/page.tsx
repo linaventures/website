@@ -121,11 +121,11 @@ export default function Home() {
 
       {/* Profile Image */}
       <div className="px-6 sm:px-12 mb-12">
-        <div className="max-w-[700px] mx-auto">
+        <div className="max-w-[700px] mx-auto text-left">
           <img 
-            src="/linapic.JPG" 
+            src="/linapic2.JPG" 
             alt="Lina Pauline" 
-            className="w-48 sm:w-64 mx-auto"
+            className="w-48 sm:w-64"
           />
         </div>
       </div>
