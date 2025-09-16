@@ -52,11 +52,11 @@ export default function Consulting() {
 
             <div className="ml-6 mb-6">
               <p className="mb-4 leading-relaxed">
-                <span className="mr-4">1.</span>They&apos;ve built something innovative — a new product, platform, or approach — but struggle to communicate its value clearly. Their technical team understands the complexity, but they need help translating that into stories that resonate with users, investors, or the broader market.
+                <span className="mr-4">1.</span>They&apos;ve built something innovative, a new product, platform, or approach, but struggle to communicate its value clearly. Their technical team understands the complexity, but they need help translating that into stories that resonate with users, investors, or the broader market.
               </p>
               
               <p className="mb-4 leading-relaxed">
-                <span className="mr-4">2.</span>They want to build a narrative infrastructure — and need strategic guidance on how to build <span className="font-bold">repeatable processes, founder stories, or content libraries</span> that grow with their organization.
+                <span className="mr-4">2.</span>They want to build a narrative infrastructure, and need strategic guidance on how to build repeatable processes, founder stories, or content libraries that grow with their organization.
               </p>
             </div>
 
@@ -99,7 +99,7 @@ export default function Consulting() {
             </p>
 
             <p className="mb-12 leading-relaxed">
-              <span className="font-bold">Fully customized consulting and advisory engagements</span> tailored to your organization&apos;s specific challenges or objectives — sometimes{" "}
+              <span className="font-bold">Fully customized consulting and advisory engagements</span> tailored to your organization&apos;s specific challenges or objectives, sometimes{" "}
               <a href="mailto:lina@thirdroom.studio" className="text-[#0000FF] hover:underline">those which you can&apos;t even name yet</a>.
             </p>
 
@@ -107,11 +107,11 @@ export default function Consulting() {
             <h2 className="text-lg font-bold text-black mb-6">How I engage</h2>
             
             <p className="mb-6 leading-relaxed">
-              No matter the engagement type — whether it&apos;s a package of focused hours or a fully customized project — <span className="font-bold">you always work directly with me</span>.
+              No matter the engagement type, whether it&apos;s a package of focused hours or a fully customized project, <span className="font-bold">you always work directly with me</span>.
             </p>
             
             <p className="mb-12 leading-relaxed">
-              I scope engagements around specific areas where I have deep expertise and comparative advantage. Where needed, I bring in handpicked specialists from my network — people I trust, who are exceptional in their respective fields.
+              I scope engagements around specific areas where I have deep expertise and comparative advantage. Where needed, I bring in handpicked specialists from my network, people I trust, who are exceptional in their respective fields.
             </p>
 
             {/* What You Get Section */}
