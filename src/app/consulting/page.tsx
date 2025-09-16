@@ -99,8 +99,7 @@ export default function Consulting() {
             </p>
 
             <p className="mb-12 leading-relaxed">
-              <span className="font-bold">Fully customized consulting and advisory engagements</span> tailored to your organization&apos;s specific challenges or objectives, sometimes{" "}
-              <a href="mailto:lina@thirdroom.studio" className="text-[#0000FF] hover:underline">those which you can&apos;t even name yet</a>.
+              <span className="font-bold">Fully customized consulting and advisory engagements</span> tailored to your organization&apos;s specific challenges or objectives, sometimes those which you can&apos;t even name yet.
             </p>
 
             {/* How I Engage Section */}
