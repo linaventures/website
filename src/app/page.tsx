@@ -119,6 +119,17 @@ export default function Home() {
         </div>
       </main>
 
+      {/* Profile Image */}
+      <div className="px-6 sm:px-12 mb-12">
+        <div className="max-w-[700px] mx-auto">
+          <img 
+            src="/linapic.JPG" 
+            alt="Lina Pauline" 
+            className="w-32 h-32 sm:w-40 sm:h-40 object-cover rounded-full mx-auto"
+          />
+        </div>
+      </div>
+
       {/* Bottom spacing */}
       <div className="h-24"></div>
     </div>
