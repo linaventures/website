@@ -46,7 +46,8 @@ export default function Home() {
             <p className="mb-6 leading-relaxed">
               I started out in documentary and advertising, moving between small,{" "}
               <a href="https://www.imdb.com/title/tt22014076/" className="text-[#0000FF] hover:underline">scrappy film projects</a> and large-scale campaigns. I&apos;ve directed shoots with a 30+ crew for{" "}
-              <a href="https://www.youtube.com/watch?v=bGlWl1YG4cA" className="text-[#0000FF] hover:underline">Sky Deutschland&apos;s <em>Babylon Berlin</em></a>, produced scripted TikTok series for Thalia Buchhandlung that went on to generate{" "}
+              <a href="https://www.youtube.com/watch?v=bGlWl1YG4cA" className="text-[#0000FF] hover:underline">Sky Deutschland&apos;s <em>Babylon Berlin</em></a>, produced scripted TikTok series for{" "}
+              <a href="https://www.tiktok.com/@thalia_buchhandlungen" className="text-[#0000FF] hover:underline">Thalia Buchhandlung</a> that went on to generate{" "}
               <a href="https://www.tiktok.com/@thalia_buchhandlungen/video/7237493732671606042" className="text-[#0000FF] hover:underline font-bold">over a million views</a>, and led documentary projects like{" "}
               <a href="https://youtu.be/R8MeW469Tzs?si=-xbrHYskCTAvhQWf" className="text-[#0000FF] hover:underline"><em>Blank Was A Canvas</em></a> amplifying underrepresented voices.
             </p>
