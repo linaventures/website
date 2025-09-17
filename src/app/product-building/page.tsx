@@ -44,17 +44,17 @@ export default function ProductBuilding() {
           <section>
             <p className="mb-6 leading-relaxed">
               <span className="font-bold">Coding is no longer a barrier.</span> I&apos;ve gone from &quot;non-technical&quot; to shipping websites (including this one), apps, and technical experiments with tools like{" "}
-              <a href="https://x.com/linaventures1/status/1966158358982832577" className="text-[#0000FF] hover:underline">Cursor</a>.
+              <a href="https://x.com/linaventures1/status/1966158358982832577" className="text-[#0000FF] hover:underline" target="_blank" rel="noopener noreferrer">Cursor</a>.
             </p>
             
             <p className="mb-12 leading-relaxed">
               Over the last three months, I&apos;ve spent most of my time building{" "}
-              <a href="https://capsules.ink/" className="text-[#0000FF] hover:underline font-bold">Capsules</a> and{" "}
-              <a href="https://canaryapp.io/" className="text-[#0000FF] hover:underline font-bold">Canary</a>. Capsules began as a personal experiment to publish my writing in a more immersive way and has grown into an alpha platform with early creators, gaining traction through word of mouth and{" "}
-              <a href="https://x.com/linaventures1/status/1965775276660646342" className="text-[#0000FF] hover:underline">building in public</a>. Canary started as a{" "}
-              <a href="https://x.com/linaventures1/status/1935322911428198577" className="text-[#0000FF] hover:underline">hackathon win</a>, was accepted into the Cypherpunk Launchpad (
-              <a href="https://x.com/web3privacy/status/1935339746433327200" className="text-[#0000FF] hover:underline">W3PN</a>), and will be showcased at the{" "}
-              <a href="https://congress.web3privacy.info/" className="text-[#0000FF] hover:underline">Cypherpunk Congress in Argentina</a> in November 2025.
+              <a href="https://capsules.ink/" className="text-[#0000FF] hover:underline font-bold" target="_blank" rel="noopener noreferrer">Capsules</a> and{" "}
+              <a href="https://canaryapp.io/" className="text-[#0000FF] hover:underline font-bold" target="_blank" rel="noopener noreferrer">Canary</a>. Capsules began as a personal experiment to publish my writing in a more immersive way and has grown into an alpha platform with early creators, gaining traction through word of mouth and{" "}
+              <a href="https://x.com/linaventures1/status/1965775276660646342" className="text-[#0000FF] hover:underline" target="_blank" rel="noopener noreferrer">building in public</a>. Canary started as a{" "}
+              <a href="https://x.com/linaventures1/status/1935322911428198577" className="text-[#0000FF] hover:underline" target="_blank" rel="noopener noreferrer">hackathon win</a>, was accepted into the Cypherpunk Launchpad (
+              <a href="https://x.com/web3privacy/status/1935339746433327200" className="text-[#0000FF] hover:underline" target="_blank" rel="noopener noreferrer">W3PN</a>), and will be showcased at the{" "}
+              <a href="https://congress.web3privacy.info/" className="text-[#0000FF] hover:underline" target="_blank" rel="noopener noreferrer">Cypherpunk Congress in Argentina</a> in November 2025.
             </p>
 
             {/* Product-building made me a better marketer */}
@@ -70,9 +70,9 @@ export default function ProductBuilding() {
             
             <p className="mb-6 leading-relaxed">
               I learned that GTM doesn&apos;t begin after launch. With Capsules, I seeded use cases by{" "}
-              <a href="https://capsules.thirdroom.studio/" className="text-[#0000FF] hover:underline">publishing my own work</a>, and{" "}
-              <a href="https://x.com/linaventures1/status/1965775276660646342" className="text-[#0000FF] hover:underline">sharing the process publicly</a>. And I learned how to extend small teams with tools: prototyping Capsules with{" "}
-              <a href="https://x.com/linaventures1/status/1965043754446012787" className="text-[#0000FF] hover:underline">N8N</a>, and orchestrating AI workflows and agents (always with a human in the loop) to replace repetitive work with systems.
+              <a href="https://capsules.thirdroom.studio/" className="text-[#0000FF] hover:underline" target="_blank" rel="noopener noreferrer">publishing my own work</a>, and{" "}
+              <a href="https://x.com/linaventures1/status/1965775276660646342" className="text-[#0000FF] hover:underline" target="_blank" rel="noopener noreferrer">sharing the process publicly</a>. And I learned how to extend small teams with tools: prototyping Capsules with{" "}
+              <a href="https://x.com/linaventures1/status/1965043754446012787" className="text-[#0000FF] hover:underline" target="_blank" rel="noopener noreferrer">N8N</a>, and orchestrating AI workflows and agents (always with a human in the loop) to replace repetitive work with systems.
             </p>
             
             <p className="mb-6 leading-relaxed">

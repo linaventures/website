@@ -72,7 +72,7 @@ export default function Consulting() {
             
             <p className="mb-6 leading-relaxed">
               I&apos;m a narrative strategist who helps organizations find and tell their stories in emerging technology spaces. (I wrote about{" "}
-              <a href="https://www.linkedin.com/pulse/what-your-story-matters-more-now-because-machines-cant-schrott-ffc7e/" className="text-[#0000FF] hover:underline">why storytelling matters more now in the age of AI</a>). That can look like:
+              <a href="https://www.linkedin.com/pulse/what-your-story-matters-more-now-because-machines-cant-schrott-ffc7e/" className="text-[#0000FF] hover:underline" target="_blank" rel="noopener noreferrer">why storytelling matters more now in the age of AI</a>). That can look like:
             </p>
             
             <p className="mb-6 leading-relaxed">

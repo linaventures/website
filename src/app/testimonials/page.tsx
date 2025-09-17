@@ -51,7 +51,7 @@ export default function Testimonials() {
                 </p>
                 <p className="text-sm leading-relaxed">
                   — <span className="font-bold">Mathilda DV</span>,{" "}
-                  <a href="https://www.linkedin.com/in/mathilda-dv-904b6a98/" className="text-[#0000FF] hover:underline font-bold">Head of Grants Program, Gitcoin</a>
+                  <a href="https://www.linkedin.com/in/mathilda-dv-904b6a98/" className="text-[#0000FF] hover:underline font-bold" target="_blank" rel="noopener noreferrer">Head of Grants Program, Gitcoin</a>
                 </p>
               </div>
               <img src="/Testimonials/mathilda.png" alt="Mathilda DV" className="w-24 h-24 sm:w-32 sm:h-32 object-cover rounded-full flex-shrink-0" />
@@ -65,7 +65,7 @@ export default function Testimonials() {
                 </p>
                 <p className="text-sm leading-relaxed">
                   — <span className="font-bold">James Ross Vazquez</span>,{" "}
-                  <a href="https://www.linkedin.com/in/james-ross-vazquez/" className="text-[#0000FF] hover:underline font-bold">Strategy and BD, Valuat</a>
+                  <a href="https://www.linkedin.com/in/james-ross-vazquez/" className="text-[#0000FF] hover:underline font-bold" target="_blank" rel="noopener noreferrer">Strategy and BD, Valuat</a>
                 </p>
               </div>
               <img src="/Testimonials/james.png" alt="James Ross Vazquez" className="w-24 h-24 sm:w-32 sm:h-32 object-cover rounded-full flex-shrink-0" />
@@ -79,7 +79,7 @@ export default function Testimonials() {
                 </p>
                 <p className="text-sm leading-relaxed">
                   — <span className="font-bold">Meggie Jaworski</span>,{" "}
-                  <a href="https://www.linkedin.com/in/meggie-jaworski/" className="text-[#0000FF] hover:underline font-bold">Managing Partner, wom3n.DAO</a>
+                  <a href="https://www.linkedin.com/in/meggie-jaworski/" className="text-[#0000FF] hover:underline font-bold" target="_blank" rel="noopener noreferrer">Managing Partner, wom3n.DAO</a>
                 </p>
               </div>
               <img src="/Testimonials/meggie.jpg" alt="Meggie Jaworski" className="w-24 h-24 sm:w-32 sm:h-32 object-cover rounded-full flex-shrink-0" />
@@ -93,7 +93,7 @@ export default function Testimonials() {
                 </p>
                 <p className="text-sm leading-relaxed">
                   — <span className="font-bold">Veronica Kirin</span>,{" "}
-                  <a href="https://www.linkedin.com/in/vmkirin/?originalSubdomain=de" className="text-[#0000FF] hover:underline font-bold">Founder Asterisk DAO</a>
+                  <a href="https://www.linkedin.com/in/vmkirin/?originalSubdomain=de" className="text-[#0000FF] hover:underline font-bold" target="_blank" rel="noopener noreferrer">Founder Asterisk DAO</a>
                 </p>
               </div>
               <img src="/Testimonials/veronica.jpg" alt="Veronica Kirin" className="w-24 h-24 sm:w-32 sm:h-32 object-cover rounded-full flex-shrink-0" />
@@ -107,7 +107,7 @@ export default function Testimonials() {
                 </p>
                 <p className="text-sm leading-relaxed">
                   — <span className="font-bold">Seville Avtsova</span>,{" "}
-                  <a href="https://sevil-lives.squarespace.com/home" className="text-[#0000FF] hover:underline font-bold">Founder of Sevil-Lives</a>
+                  <a href="https://sevil-lives.squarespace.com/home" className="text-[#0000FF] hover:underline font-bold" target="_blank" rel="noopener noreferrer">Founder of Sevil-Lives</a>
                 </p>
               </div>
               <img src="/Testimonials/seville.png" alt="Seville Avtsova" className="w-24 h-24 sm:w-32 sm:h-32 object-cover rounded-full flex-shrink-0" />
@@ -121,7 +121,7 @@ export default function Testimonials() {
                 </p>
                 <p className="text-sm leading-relaxed">
                   — <span className="font-bold">Patricia Gruben</span>,{" "}
-                  <a href="https://en.wikipedia.org/wiki/Patricia_Gruben" className="text-[#0000FF] hover:underline font-bold">Filmmaker and Director/Professor at SFU</a>
+                  <a href="https://en.wikipedia.org/wiki/Patricia_Gruben" className="text-[#0000FF] hover:underline font-bold" target="_blank" rel="noopener noreferrer">Filmmaker and Director/Professor at SFU</a>
                 </p>
               </div>
               <img src="/Testimonials/patricia.jpg" alt="Patricia Gruben" className="w-24 h-24 sm:w-32 sm:h-32 object-cover rounded-full flex-shrink-0" />
@@ -135,7 +135,7 @@ export default function Testimonials() {
                 </p>
                 <p className="text-sm leading-relaxed">
                   — <span className="font-bold">Zoe Hertz</span>,{" "}
-                  <a href="https://afterlifestudio.ca/about" className="text-[#0000FF] hover:underline font-bold">CEO and Founder Afterlife Films</a>
+                  <a href="https://afterlifestudio.ca/about" className="text-[#0000FF] hover:underline font-bold" target="_blank" rel="noopener noreferrer">CEO and Founder Afterlife Films</a>
                 </p>
               </div>
               <img src="/Testimonials/zoe.jpg" alt="Zoe Hertz" className="w-24 h-24 sm:w-32 sm:h-32 object-cover rounded-full flex-shrink-0" />
@@ -149,7 +149,7 @@ export default function Testimonials() {
                 </p>
                 <p className="text-sm leading-relaxed">
                   — <span className="font-bold">Hani Rukh-E-Qamar</span>,{" "}
-                  <a href="https://www.linkedin.com/in/hani-rukh-e-qamar-952628196/?originalSubdomain=ca" className="text-[#0000FF] hover:underline font-bold">Founder CAWI and Unicef Youth Consultant</a>
+                  <a href="https://www.linkedin.com/in/hani-rukh-e-qamar-952628196/?originalSubdomain=ca" className="text-[#0000FF] hover:underline font-bold" target="_blank" rel="noopener noreferrer">Founder CAWI and Unicef Youth Consultant</a>
                 </p>
               </div>
               <img src="/Testimonials/hani.jpg" alt="Hani Rukh-E-Qamar" className="w-24 h-24 sm:w-32 sm:h-32 object-cover rounded-full flex-shrink-0" />
