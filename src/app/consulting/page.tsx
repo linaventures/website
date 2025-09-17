@@ -50,7 +50,7 @@ export default function Consulting() {
             <h2 className="text-lg font-bold text-black mb-6">Where I can help</h2>
             
             <p className="mb-6 leading-relaxed">
-              Clients usually come to me in one of two situations:
+              <a href="/testimonials" className="text-[#0000FF] hover:underline">Clients</a> usually come to me in one of two situations:
             </p>
 
             <div className="ml-6 mb-6">
