@@ -128,7 +128,7 @@ export default function Home() {
         <div className="max-w-[700px] mx-auto text-left">
           <div className="relative inline-block">
             <img 
-              src="/takeoff.jpg" 
+              src="/takeoff.png" 
               alt="Lina Pauline" 
               className="w-64 sm:w-80"
             />
