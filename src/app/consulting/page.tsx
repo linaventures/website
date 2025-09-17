@@ -76,7 +76,7 @@ export default function Consulting() {
             </p>
             
             <p className="mb-6 leading-relaxed">
-              Most engagements fall into one of these areas: <span className="font-bold">Time-delimited packages of strategic support</span>. These are focused blocks of time that you and your team can use to get support in thinking through narrative challenges and positioning decisions your organization faces:
+              Most clients start with one of two types of focused support. These are set blocks of time we can use to work through narrative challenges or positioning decisions your team is facing:
             </p>
 
             <div className="ml-6 mb-6">
