@@ -40,7 +40,7 @@ export default function Home() {
           {/* Intro Section */}
           <section className="mb-16">
             <p className="mb-6 leading-relaxed">
-              I&apos;m a creative producer, consultant, and builder. I care about how stories shape people and products, and how we can design better ways to tell them.
+              Hi, I&apos;m Lina. I deeply care about how stories shape people and products, and how we can design better ways to tell them. I&apos;m, amongst other things, a creative producer, consultant, and builder.
             </p>
             
             <p className="mb-6 leading-relaxed">
